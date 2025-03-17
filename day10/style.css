@@ -1,0 +1,19 @@
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #00eaff;
+    padding: 20px;
+    border-radius: 8px 8px 0 0;
+}
+.container{
+    background-color: rgb(255, 0, 0);
+    padding:;
+    border-radius: 8px 8px 0 0;
+
+}
+.praveen{
+    background-color: rgb(238, 255, 0);
+    padding: 20px;
+    border-radius: 8px 8px 0 0;
+}
